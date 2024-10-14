@@ -21,7 +21,7 @@
             position: relative;
             width: 100%;
             height: 100vh;
-            background-image: url('/mnt/data/73DD1289-4DE7-4BDD-AEBF-5C1452E20AAD.png');
+            background-image: url('/mnt/data/3913CD05-D171-40B4-B604-50D935DC3762.png');
             background-size: cover;
             background-position: center;
         }
