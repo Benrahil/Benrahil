@@ -1,30 +1,26 @@
 <!DOCTYPE html>
-<html lang="ar">
+<html lang="ar" dir="rtl">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Libo Cima</title>
+    <title>موقع Libo Cima</title>
     <style>
-        body, html {
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-            height: 100%;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            background-color: black;
-            color: white;
+        body {
+            background-color: #f0f0f0;
+            text-align: center;
+            font-family: 'Arial', sans-serif;
+            color: red;
         }
-
+        h1 {
+            font-size: 50px;
+            margin-top: 20%;
+        }
+    </style>
 </head>
 <body>
-    <div class="container">
-        <div class="overlay">
-            <h1>موقع ليبو سيما</h1>
-            <p>انتظرونا قريبًا</p>
-            <div class="flag">🇱🇾 تحيات حسام 🫡</div>
-        </div>
-    </div>
+    <h1>انتظرونا قريباً</h1>
+    <p>موقع Libo Cima يرحب بكم</p>
+    <p>انتظرونا قريبا</p>
+    <p>تحيات حسام 🇱🇾</p>
 </body>
 </html>
